@@ -32,11 +32,11 @@ You can only view it in [Resource Packages](https://expense.console.aliyun.com/?
 
 Currently the deduction details cannot be exported.
 
-## Why deduction time is different from the traffic generation time? {#section_dp3_qcy_b2b .section}
+## Deduction records in the usage details of Data Transfer Plan {#section_dp3_qcy_b2b .section}
 
-The time in the usage details of Data Transfer Plan is the time when the traffic deduction is billed and the traffic generally was generated one hour before the time.
+The time in the usage details of Data Transfer Plan refers to the time when the traffic deduction is billed and the traffic generally was generated one hour before the time.
 
-## Is the peak bandwidth of an EIP changed when Data Transfer Plan is used? {#section_zmb_vcy_b2b .section}
+## What is the peak bandwidth when Data Transfer Plan and EIPs are used? {#section_zmb_vcy_b2b .section}
 
 Data Transfer Plan is a resource package, which does not influence the peak bandwidth of associated cloud products. The original peak bandwidths of EIPs billed by traffic remain unchanged after a Data Transfer Plan is used.
 
