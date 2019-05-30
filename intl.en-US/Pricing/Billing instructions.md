@@ -7,7 +7,7 @@ A Data Transfer Plan can cover one area and one area includes one or more region
 |Data Transfer Plan area|Covered regions|
 |:----------------------|:--------------|
 |Mainland China|China \(Qingdao\), China \(Beijing\), China \(Zhangjiakou\), China \(Hohhot\), China \(Hangzhou\), China \(Shanghai\), China \(Shenzhen\)|
-|Overseas|Australia \(Sydney\), US \(Virginia\), US \(Silicon Valley\), Germany \(Frankfurt\), Singapore, Malaysia \(Kuala Lumpur\), India \(Mumbai\)|
+|International|Australia \(Sydney\), US \(Virginia\), US \(Silicon Valley\), Germany \(Frankfurt\), Singapore, Malaysia \(Kuala Lumpur\), India \(Mumbai\)|
 |Hong Kong|Hong Kong|
 
 ## Pricing {#section_ogn_452_5fb .section}
